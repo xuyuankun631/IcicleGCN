@@ -1,6 +1,6 @@
-# Unsupervised Image Clustering with Deep Contrastive and Multi-scale Structure Learning (IcicleGCN)
+# Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks (IcicleGCN)
 
-This is the code for the paper "Unsupervised Image Clustering with Deep Contrastive and Multi-scale Structure Learning"
+This is the code for the paper "Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks"
 
 <div align=center><img src="Figures/Figure1.png" width = "70%"/></div>
 
