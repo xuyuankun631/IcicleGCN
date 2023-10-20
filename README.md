@@ -1,6 +1,6 @@
 # Deep image clustering with contrastive learning and multi-scale graph convolutional networks (IcicleGCN)
 
-This is the code for our Pattern Recognition'23 paper "Deep image clustering with contrastive learning and multi-scale graph convolutional networks"
+This is the code for our Pattern Recognition'24 paper "Deep image clustering with contrastive learning and multi-scale graph convolutional networks"
 
 <div align=center><img src="Figures/Figure1.png" width = "70%"/></div>
 
@@ -65,6 +65,6 @@ We are truly grateful for citing our paper! The BibTex entry of our paper is:
   author={Xu, Yuankun and Huang, Dong and Wang, Chang-Dong and Lai, Jian-Huang},
   journal={Pattern Recognition},
   pages={110065},
-  year={2023},
+  year={2024},
   publisher={Elsevier}
 }
