@@ -56,7 +56,7 @@ CIFAR-10, CIFAR-100, STL-10 will be automatically downloaded by Pytorch. Tiny-Im
 ## Citation
 We are truly grateful for citing our paper! The BibTex entry of our paper is:
 
-@article{xu2023deep,
+> @article{xu2023deep,
   title={Deep image clustering with contrastive learning and multi-scale graph convolutional networks},
   author={Xu, Yuankun and Huang, Dong and Wang, Chang-Dong and Lai, Jian-Huang},
   journal={Pattern Recognition},
