@@ -1,6 +1,6 @@
-# Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks (IcicleGCN)
+# Deep image clustering with contrastive learning and multi-scale graph convolutional networks (IcicleGCN)
 
-This is the code for the paper "Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks"
+This is the code for the paper "Deep image clustering with contrastive learning and multi-scale graph convolutional networks"
 
 <div align=center><img src="Figures/Figure1.png" width = "70%"/></div>
 
