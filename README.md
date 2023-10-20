@@ -60,7 +60,7 @@ Anyone clicking on this link before December 09, 2023 will be taken directly to 
 # Citation
 We are truly grateful for citing our paper! The BibTex entry of our paper is:
 
-> @article{xu2023deep,
+> @article{xu2024deep,
   title={Deep image clustering with contrastive learning and multi-scale graph convolutional networks},
   author={Xu, Yuankun and Huang, Dong and Wang, Chang-Dong and Lai, Jian-Huang},
   journal={Pattern Recognition},
