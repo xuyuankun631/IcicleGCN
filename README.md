@@ -53,4 +53,14 @@ We uploaded the pretrained model which achieves the performance reported in the 
 
 CIFAR-10, CIFAR-100, STL-10 will be automatically downloaded by Pytorch. Tiny-ImageNet can be downloaded from http://cs231n.stanford.edu/tiny-imagenet-200.zip. For ImageNet-10 and ImageNet-dogs, we provided their description in the "dataset" folder.
 
+## Citation
+We are truly grateful for citing our paper! The BibTex entry of our paper is:
 
+@article{xu2023deep,
+  title={Deep image clustering with contrastive learning and multi-scale graph convolutional networks},
+  author={Xu, Yuankun and Huang, Dong and Wang, Chang-Dong and Lai, Jian-Huang},
+  journal={Pattern Recognition},
+  pages={110065},
+  year={2023},
+  publisher={Elsevier}
+}
